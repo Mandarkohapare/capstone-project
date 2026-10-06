@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Queue card badge background -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M32,30 h44 c4.4,0 8,3.6 8,8 v32 c0,4.4 -3.6,8 -8,8 h-28 l-12,10 v-10 h-4 c-4.4,0 -8,-3.6 -8,-8 v-32 c0,-4.4 3.6,-8 8,-8 z" />
+    <!-- Inner ticket content / checkmark & lines -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M34,44 h24 v4 h-24 z M34,53 h16 v4 h-16 z" />
+    <!-- AI Sparkle / Star on the top right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,36 c0,4.4 3.6,8 8,8 c-4.4,0 -8,3.6 -8,8 c0,-4.4 -3.6,-8 -8,-8 c4.4,0 8,-3.6 8,-8 z" />
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M64,40 c0,2.2 1.8,4 4,4 c-2.2,0 -4,1.8 -4,4 c0,-2.2 -1.8,-4 -4,-4 c2.2,0 4,-1.8 4,-4 z" />
+    <!-- Customer support headset band overlay -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M27,56 C27,39 39,26 54,26 C69,26 81,39 81,56" />
+    <!-- Left earcup -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,52 h6 c2.2,0 4,1.8 4,4 v10 c0,2.2 -1.8,4 -4,4 h-6 c-2.2,0 -4,-1.8 -4,-4 v-10 c0,-2.2 1.8,-4 4,-4 z" />
+    <!-- Right earcup with mic -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,52 h6 c2.2,0 4,1.8 4,4 v10 c0,2.2 -1.8,4 -4,4 h-6 c-2.2,0 -4,-1.8 -4,-4 v-10 c0,-2.2 1.8,-4 4,-4 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M81,66 c0,10 -8,14 -18,14" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M63,78 a3,3 0 1,0 0.01,0" />
+</vector>
